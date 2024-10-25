@@ -17,7 +17,7 @@ Este projeto é um script Python que organiza arquivos em uma pasta especificada
 2. Execute o script. Os arquivos serão movidos para as respectivas pastas baseadas em suas extensões.
 
 ## Exemplo
-![Organizador em Ação](https://youtu.be/lmmvz2QvyOA?si=u8gBsYsjnzyBIPKs)
+![Organizador em Ação] (https://youtu.be/lmmvz2QvyOA?si=u8gBsYsjnzyBIPKs)
 
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias ou sugestões!
